@@ -59,5 +59,6 @@ nginx -s reload
 
 ## 效果展示
 
-![输入图片说明](https://foruda.gitee.com/images/1696992305855207243/f2aa2ccc_9259835.png "1696991102529.png")
+<img src="https://foruda.gitee.com/images/1696992305855207243/f2aa2ccc_9259835.png" alt="示例图片" style="max-width:100%; height:auto;">
+
 
